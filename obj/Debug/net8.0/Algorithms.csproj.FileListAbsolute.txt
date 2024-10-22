@@ -1,0 +1,14 @@
+/Users/vahemirzoyan/Desktop/Algorithms/bin/Debug/net8.0/Algorithms
+/Users/vahemirzoyan/Desktop/Algorithms/bin/Debug/net8.0/Algorithms.deps.json
+/Users/vahemirzoyan/Desktop/Algorithms/bin/Debug/net8.0/Algorithms.runtimeconfig.json
+/Users/vahemirzoyan/Desktop/Algorithms/bin/Debug/net8.0/Algorithms.dll
+/Users/vahemirzoyan/Desktop/Algorithms/bin/Debug/net8.0/Algorithms.pdb
+/Users/vahemirzoyan/Desktop/Algorithms/obj/Debug/net8.0/Algorithms.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vahemirzoyan/Desktop/Algorithms/obj/Debug/net8.0/Algorithms.AssemblyInfoInputs.cache
+/Users/vahemirzoyan/Desktop/Algorithms/obj/Debug/net8.0/Algorithms.AssemblyInfo.cs
+/Users/vahemirzoyan/Desktop/Algorithms/obj/Debug/net8.0/Algorithms.csproj.CoreCompileInputs.cache
+/Users/vahemirzoyan/Desktop/Algorithms/obj/Debug/net8.0/Algorithms.dll
+/Users/vahemirzoyan/Desktop/Algorithms/obj/Debug/net8.0/refint/Algorithms.dll
+/Users/vahemirzoyan/Desktop/Algorithms/obj/Debug/net8.0/Algorithms.pdb
+/Users/vahemirzoyan/Desktop/Algorithms/obj/Debug/net8.0/Algorithms.genruntimeconfig.cache
+/Users/vahemirzoyan/Desktop/Algorithms/obj/Debug/net8.0/ref/Algorithms.dll
